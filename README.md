@@ -161,13 +161,13 @@ DTO로 바로 조회한 후 IN 쿼리로 컬렉션을 로딩하는 방법이다.
 
 - Entity 조회 후 컬렉션 Lazy 로딩
 
-![Spring-JPA-API-Entity](/home/mwkang/Downloads/Spring-JPA-API-Entity.gif)
+![Spring-JPA-API-Entity](https://user-images.githubusercontent.com/79822924/152672153-b9bb7d35-9bae-45e0-927c-d60eca4be31a.gif)
 
 
 
 - DTO 조회 후 IN 쿼리 컬렉션 로딩
 
-![Spring-JPA-API-DTO](/home/mwkang/Downloads/Spring-JPA-API-DTO.gif)
+![Spring-JPA-API-DTO](https://user-images.githubusercontent.com/79822924/152672160-9c3a85a2-f76a-492a-922e-3d1cea660b16.gif)
 
 
 
