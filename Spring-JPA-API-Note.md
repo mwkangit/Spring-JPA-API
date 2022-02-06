@@ -955,7 +955,7 @@ public class OrderFlatDto {
 
 
 
-![OSIV ON](/media/mwkang/Klevv/Spring 일지/스프링  JPA2/12.27/OSIV ON.png)
+![OSIV ON](https://user-images.githubusercontent.com/79822924/152672177-d478c593-0929-4a7d-973e-1c6db4c57f4e.png)
 
 - #### 어플리케이션 시작 시점에 OSIV default 사용 warn 로그가 발생한다.
 
@@ -969,7 +969,7 @@ public class OrderFlatDto {
 
 
 
-![OSIV OFF](/media/mwkang/Klevv/Spring 일지/스프링  JPA2/12.27/OSIV OFF.png)
+![OSIV OFF](https://user-images.githubusercontent.com/79822924/152672182-b215a279-3ade-438d-8bd8-640ef1035316.png)
 
 - #### 트랜잭션을 종료할 때 영속성 컨텍스트를 닫고 데이터베이스 커넥션도 반환한다.
 
@@ -1007,4 +1007,4 @@ public class OrderFlatDto {
 
 
 
-Image 출처 : [김영한 JPA_2](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94/dashboard)
+Image 출처 : [김영한 JPA_활용2](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94)
