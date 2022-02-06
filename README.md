@@ -3,7 +3,7 @@
 
 ## Description
 
-본 프로젝트는 [Spring-JPA-Shop]()의 결과물을 API로 데이터를 전송을 구현한 것이다. 각 로직에 대해 네트워크, 쿼리의 성능과  N + 1 문제를 refactoring 과정을 거치면서 버전을 나눠서 구현하였다. 로직으로는 회원, 주문에 대한 등록, 조회를 구현하였다. 응답 데이터 형식은 JSON을 이용하였다.
+본 프로젝트는 [Spring-JPA-Shop](https://github.com/mwkangit/Spring-JPA-Shop)의 결과물을 API로 데이터를 전송을 구현한 것이다. 각 로직에 대해 네트워크, 쿼리의 성능과  N + 1 문제를 refactoring 과정을 거치면서 버전을 나눠서 구현하였다. 로직으로는 회원, 주문에 대한 등록, 조회를 구현하였다. 응답 데이터 형식은 JSON을 이용하였다.
 
 
 
@@ -179,4 +179,4 @@ DTO로 바로 조회한 후 IN 쿼리로 컬렉션을 로딩하는 방법이다.
 
 ## More Explanation
 
-[Spring-JPA-API-Note.md]()
+[Spring-JPA-API-Note.md](https://github.com/mwkangit/Spring-JPA-API/blob/master/Spring-JPA-API-Note.md)
